@@ -22,4 +22,8 @@ I am known for my ability to diagnose challenges, resolve bottlenecks, and revam
 
 💬 Always open to connecting, sharing ideas, and exploring new opportunities in data engineering and AI.
 
-Let’s connect...
+Let’s connect.
+
+Here's how you can reach me: [Gmail](saiprasadkonda5787@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saiprasadkonda/)
+
+
