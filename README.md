@@ -3,7 +3,7 @@
 ## Thanks for taking a look around. Here's a little about my self...
 
 
-I am a data-driven problem solver and engineer with 4+ years of experience transforming complex data challenges into streamlined, scalable solutions. Over the years, I have spearheaded multiple projects that transformed raw, unstructured data into actionable insights, enabling organizations to make smarter, faster, and data-driven decisions. My expertise lies in #GoogleBigQuery, #SQL, #ApacheAirflow, #Python, #AzureDevOps, and #Git, where I have consistently delivered impactful results across industries.
+I am a data-driven problem solver and engineer with 4.5+ years of experience transforming complex data challenges into streamlined, scalable solutions. Over the years, I have spearheaded multiple projects that transformed raw, unstructured data into actionable insights, enabling organizations to make smarter, faster, and data-driven decisions. My expertise lies in #GoogleBigQuery, #SQL, #ApacheAirflow, #Python, #AzureDevOps, and #Git, where I have consistently delivered impactful results across industries.
 
 
 👉 Data Migration & Transformation – Orchestrated enterprise-scale data migration projects, streamlined stored procedures, and optimized workflows for seamless transitions.<br>
